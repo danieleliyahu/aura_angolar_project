@@ -32,4 +32,6 @@
 .movieNotFound p {
   display: flex;
   justify-content: center;
+  color: rgb(255, 95, 95);
+  font-size: 2.5rem;
 }
